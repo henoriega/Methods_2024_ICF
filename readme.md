@@ -4,7 +4,7 @@ Repository for the *V Taller de Métodos Numéricos y Estadísticos en Cosmolog�
 
 - [Hernán E. Noriega](mailto:henoriega@estudiantes.fisica.unam.mx)
 
-  Special thanks to Gabriela Arroyo [ The BOSS ;) ]
+  Special thanks to Gabriela Arroyo [ The BOSS 😉 ]
 
 This project offers a brief introduction to tools for studying large-scale structure.
 
