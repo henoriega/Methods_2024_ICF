@@ -1,7 +1,7 @@
 # Repository for the *Herramientas para Análisis de Formación de Estructuras* @ Cuernavaca, Morelos
 
 <p align="center">
-    <img src="https://github.com/henoriega/Methods_2024_ICF/blob/main/logo.jpeg" width="400" height="300">
+    <img src="https://github.com/henoriega/Methods_2024_ICF/blob/main/logo.jpeg" width="350" height="250">
 </p>
 
 
