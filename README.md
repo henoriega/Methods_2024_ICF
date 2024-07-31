@@ -1,6 +1,6 @@
 # ReadME
 
-Repository for the Herramientas para análisis de formación de estructuras @ (Cuernavaca, Morelos)
+Repository for the *Herramientas para análisis de formación de estructuras* @ (Cuernavaca, Morelos)
 
 To execute the project locally use [here](https://github.com/henoriega/Methods_2024_ICF/blob/main/Tutorial.ipynb)
 
