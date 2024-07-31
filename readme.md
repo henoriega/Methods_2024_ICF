@@ -1,8 +1,5 @@
 # Repository for the *Herramientas para Análisis de Formación de Estructuras* @ Cuernavaca, Morelos
 
-<p align="center">
-    <img src="https://github.com/henoriega/Methods_2024_ICF/blob/main/logo.jpeg" width="350" height="250">
-</p>
 
 
 Repository for the *V Taller de Métodos Numéricos y Estadísticos en Cosmología* @ Cuernavaca, Morelos
