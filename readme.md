@@ -9,7 +9,7 @@ Repository for the *V Taller de Métodos Numéricos y Estadísticos en Cosmolog�
 This project offers a brief introduction to tools for studying large-scale structure.
 
 
-#### Slides available [here]((https://docs.google.com/presentation/d/1vMtK3w2-D70mmPOoZlxGwqUDXkk9Y9wr2ABlMsBWD-U/edit?usp=sharing))
+#### Slides available [here](https://docs.google.com/presentation/d/1vMtK3w2-D70mmPOoZlxGwqUDXkk9Y9wr2ABlMsBWD-U/edit?usp=sharing)
 
 #### To execute the project locally
 
