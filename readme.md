@@ -1,5 +1,10 @@
 # Repository for the *Herramientas para Análisis de Formación de Estructuras* @ Cuernavaca, Morelos
 
+<p align="center">
+    <img src="https://github.com/henoriega/FOLPS-nu/blob/main/folps_logo.png" width="700" height="200">
+</p>
+
+
 Repository for the *V Taller de Métodos Numéricos y Estadísticos en Cosmología* @ Cuernavaca, Morelos
 
 - [Hernán E. Noriega](mailto:henoriega@estudiantes.fisica.unam.mx)
