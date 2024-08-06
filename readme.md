@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/henoriega/Methods_2024_ICF/blob/main/logo_methods.jpg" width="70%">
+    <img src="https://github.com/henoriega/Methods_2024_ICF/blob/main/logo_methods.jpg" width="60%">
 </p>
 
 # Repository for the *Herramientas para Análisis de Formación de Estructuras* @ Cuernavaca, Morelos
